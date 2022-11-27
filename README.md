@@ -1,6 +1,6 @@
 # Quantum-AI-Reading-List
 
-Contributors: [@AslantheAslan](https://github.com/AslantheAslan)
+Contributors: [@AslantheAslan](https://github.com/AslantheAslan), [@myeonghoeLee](https://github.com/myeonghoeLee)
 
 <a href="https://github.com/Namgyu97/Quantum-AI-Reading-List/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Namgyu97/Quantum-AI-Reading-List" />
