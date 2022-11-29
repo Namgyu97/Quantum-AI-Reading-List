@@ -15,6 +15,12 @@ Contributors: [@AslantheAslan](https://github.com/AslantheAslan), [@myeonghoeLee
 * Upama, P.B., et al., Evolution of Quantum Computing: A Systematic Survey on the Use of Quantum Computing Tools, 2022.
 * Zhaokai, L., L. Xiaomei, and X. Nanyang, Experimental realization of quantum artificial intelligence, 2014.
 
+* Huang, Hsin-Yuan, et al. "Quantum advantage in learning from experiments." Science 376.6598 (2022): 1182-1186.
+* Vedran Dunjko, Jacob M. Taylor, and Hans J. Briegel Phys. Rev. Lett. " Quantum-Enhanced Machine Learning."117, 130501.
+* O’Driscoll, L., Nichols, R. & Knott, P.A. A hybrid machine learning algorithm for designing quantum experiments. Quantum Mach. Intell. 1, 5–15 (2019).
+* Prati, Enrico. “Quantum neuromorphic hardware for quantum artificial intelligence.” Journal of Physics: Conference Series 880 (2017).
+* Rawat, B., Mehra, N., Bist,. A. S., Yusup, M., & Sanjaya, Y. P. A. (2022). Quantum Computing and AI: Impacts &amp; Possibilities. ADI Journal on Recent Innovation, 3(2), 202–207.
+
 * Park, Siheon, Daniel K. Park, and June-Koo Kevin Rhee. "Variational Quantum Approximate Support Vector Machine With Inference Transfer." arXiv preprint arXiv:2206.14507 (2022).
 * Park, Daniel K., Carsten Blank, and Francesco Petruccione. "The theory of the quantum kernel-based binary classifier." Physics Letters A 384.21 (2020): 126422.
 * Blank, Carsten, et al. "Quantum classifier with tailored quantum kernel." npj Quantum Information 6.1 (2020): 1-7.
