@@ -21,6 +21,12 @@ Contributors: [@AslantheAslan](https://github.com/AslantheAslan), [@myeonghoeLee
 * Prati, Enrico. “Quantum neuromorphic hardware for quantum artificial intelligence.” Journal of Physics: Conference Series 880 (2017).
 * Rawat, B., Mehra, N., Bist,. A. S., Yusup, M., & Sanjaya, Y. P. A. (2022). Quantum Computing and AI: Impacts &amp; Possibilities. ADI Journal on Recent Innovation, 3(2), 202–207.
 
+* Ying, M., Quantum computation, quantum theory and AI. Artificial Intelligence, 2010. 174(2): p. 162-176.
+* Wichert, A., Principles of quantum artificial intelligence: quantum problem solving and machine learning, 2020.
+* Dunjko, V. and H.J. Briegel, Machine learning & artificial intelligence in the quantum domain. arXiv preprint arXiv:1709.02779, 2017.
+* Lutz, R., Quantum AI. Behavioral and Brain Sciences, 1990. 13(4): p. 672-673
+* Venegas-Andraca, S.E. and S. Bose. Quantum computation and image processing: New trends in artificial intelligence. in IJCAI. 	2003.
+
 * Park, Siheon, Daniel K. Park, and June-Koo Kevin Rhee. "Variational Quantum Approximate Support Vector Machine With Inference Transfer." arXiv preprint arXiv:2206.14507 (2022).
 * Park, Daniel K., Carsten Blank, and Francesco Petruccione. "The theory of the quantum kernel-based binary classifier." Physics Letters A 384.21 (2020): 126422.
 * Blank, Carsten, et al. "Quantum classifier with tailored quantum kernel." npj Quantum Information 6.1 (2020): 1-7.
