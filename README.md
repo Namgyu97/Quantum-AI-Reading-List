@@ -9,7 +9,7 @@ Contributors: [@AslantheAslan](https://github.com/AslantheAslan), [@myeonghoeLee
 ------------------------------------------------------------------------------------
 ## Survey Papers
 
-* Machine learning in the quantum realm: The state-of-the-art, challenges, and future vision, 2022
+* (ESWA) Machine learning in the quantum realm: The state-of-the-art, challenges, and future vision, 2022
 * Recent developments and applications in quantum neural network: a review. Archives of Computational Methods in Engineering, 2019.
 
 
