@@ -9,7 +9,17 @@ Contributors: [@AslantheAslan](https://github.com/AslantheAslan), [@myeonghoeLee
 ------------------------------------------------------------------------------------
 ## Survey Papers
 
-* Jeswal, S. and S. Chakraverty, Recent developments and applications in quantum neural network: a review. Archives of Computational Methods in Engineering, 2019.
+* Recent developments and applications in quantum neural network: a review. Archives of Computational Methods in Engineering, 2019.
+
+
+------------------------------------------------------------------------------------
+## Image
+
+* Design of a quantum convolutional neural network on quantum circuits, 2022.
+
+------------------------------------------------------------------------------------
+## Others Papers
+
 * Ying, M., Quantum computation, quantum theory and AI. Artificial Intelligence, 2010.
 * Choi, J., S. Oh, and J. Kim. The useful quantum computing techniques for artificial intelligence engineers. in 2020 International Conference on Information Networking (ICOIN), 2020.
 * Upama, P.B., et al., Evolution of Quantum Computing: A Systematic Survey on the Use of Quantum Computing Tools, 2022.
