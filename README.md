@@ -21,10 +21,10 @@ Contributors: [@AslantheAslan](https://github.com/AslantheAslan), [@myeonghoeLee
 ------------------------------------------------------------------------------------
 ## Others Papers
 - [2022]
-+ ** Park, Siheon, Daniel K. Park, and June-Koo Kevin Rhee. "Variational Quantum Approximate Support Vector Machine With Inference Transfer." arXiv preprint arXiv:2206.14507 (2022).
-+ ** Rawat, B., Mehra, N., Bist,. A. S., Yusup, M., & Sanjaya, Y. P. A. (2022). Quantum Computing and AI: Impacts &amp; Possibilities. ADI Journal on Recent Innovation, 3(2), 202–207.
-+ ** Huang, Hsin-Yuan, et al. "Quantum advantage in learning from experiments." Science 376.6598 (2022): 1182-1186.
-+ ** Upama, P.B., et al., Evolution of Quantum Computing: A Systematic Survey on the Use of Quantum Computing Tools, 2022.
++ ** Variational Quantum Approximate Support Vector Machine With Inference Transfer**, *[📝Cornel Univ.](https://arxiv.org/abs/2206.14507)*
++ ** Quantum Computing and AI: Impacts &amp; Possibilities**, *[📝AJRI](https://www.adi-journal.org/index.php/ajri/article/view/656)*
++ ** Quantum advantage in learning from experiments**, *[📝Science](https://www.science.org/doi/abs/10.1126/science.abn7293?cookieSet=1)*
++ ** Evolution of Quantum Computing: A Systematic Survey on the Use of Quantum Computing Tools**, *[📝Cornel Univ.](https://arxiv.org/abs/2204.01856)*
 
 
 - [2021]
