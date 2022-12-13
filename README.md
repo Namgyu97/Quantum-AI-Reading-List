@@ -9,14 +9,14 @@ Contributors: [@AslantheAslan](https://github.com/AslantheAslan), [@myeonghoeLee
 ------------------------------------------------------------------------------------
 ## Survey Papers
 
-* (ESWA) Machine learning in the quantum realm: The state-of-the-art, challenges, and future vision, 2022
-* Recent developments and applications in quantum neural network: a review. Archives of Computational Methods in Engineering, 2019.
++ ** Machine learning in the quantum realm: The state-of-the-art, challenges, and future vision**, *[📝ELSEVIER](https://www.sciencedirect.com/science/article/pii/S0957417422000136)*
++ ** Recent developments and applications in quantum neural network: a review**, *[📝SpringerLink](https://link.springer.com/article/10.1007/s11831-018-9269-0)*
 
 
 ------------------------------------------------------------------------------------
 ## Image
 
-* Design of a quantum convolutional neural network on quantum circuits, 2022.
++ ** Design of a quantum convolutional neural network on quantum circuits**, *[📝ELSEVIER](https://www.sciencedirect.com/science/article/pii/S0016003222005166)*
 
 ------------------------------------------------------------------------------------
 ## Others Papers
