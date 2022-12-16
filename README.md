@@ -48,7 +48,6 @@ Contributors: [@AslantheAslan](https://github.com/AslantheAslan), [@myeonghoeLee
 + **Quantum neuromorphic hardware for quantum artificial intelligence**, *[📝IOPSCIENCE](https://iopscience.iop.org/article/10.1088/1742-6596/880/1/012018/meta)*
 + **Quantum-Enhanced Machine Learning**, *[📝APS](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.130501)*
 + **Experimental realization of quantum artificial intelligence**, *[📝Cornel Univ.](https://arxiv.org/abs/1410.1054)*
-+ **Ying, M., Quantum computation, quantum theory and AI. Artificial Intelligence, 2010. 174(2): p. 162-176.
 + **Quantum computation, quantum theory and AI. Artificial Intelligence**, *[📝ELSEVIER](https://www.sciencedirect.com/science/article/pii/S0004370209001398)*
-+ **Quantum computation and image processing: New trends in artificial intelligence**, *[📝?](https://www.researchgate.net/profile/Salvador-Venegas-Andraca/publication/220814314_Quantum_Computation_and_Image_Processing_New_Trends_in_Artificial_Intelligence/links/0912f5052af6fba23f000000/Quantum-Computation-and-Image-Processing-New-Trends-in-Artificial-Intelligence.pdf)*
++ **Quantum computation and image processing: New trends in artificial intelligence**, *[📝IJCAI](https://www.researchgate.net/profile/Salvador-Venegas-Andraca/publication/220814314_Quantum_Computation_and_Image_Processing_New_Trends_in_Artificial_Intelligence/links/0912f5052af6fba23f000000/Quantum-Computation-and-Image-Processing-New-Trends-in-Artificial-Intelligence.pdf)*
 + **Quantum AI**, *[📝CambridgeCore](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/quantum-ai/0B5D9AA0D07574D2B561DE4924747CA9)*
